@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bottlerocketstudios:barcode:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d79bd5d87f0951c10ea9ca6c186cfc41/barcode-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d79bd5d87f0951c10ea9ca6c186cfc41/barcode-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d79bd5d87f0951c10ea9ca6c186cfc41/barcode-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bottlerocketstudios/barcode/1.0.3/56573fa4cc1337da7efa7e75d3a003e7f147f89b/barcode-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bottlerocketstudios/barcode/1.0.3/20d3f88a4f3a4ee48719c8f764a11fa2be44e2c6/barcode-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

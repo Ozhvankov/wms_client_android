@@ -1,0 +1,138 @@
+com/google/zxing/integration/android/IntentIntegrator.java
+ com.google.zxing.integration.android.IntentIntegrator
+com/journeyapps/barcodescanner/BarcodeResult.java
+ com.journeyapps.barcodescanner.BarcodeResult
+com/journeyapps/barcodescanner/camera/CameraThread.java
+ com.journeyapps.barcodescanner.camera.CameraThread
+com/google/zxing/client/android/BuildConfig.java
+ com.google.zxing.client.android.BuildConfig
+com/journeyapps/barcodescanner/InvertedDecoder.java
+ com.journeyapps.barcodescanner.InvertedDecoder
+com/google/zxing/client/android/camera/open/OpenCameraInterface.java
+ com.google.zxing.client.android.camera.open.OpenCameraInterface
+com/journeyapps/barcodescanner/camera/DisplayConfiguration.java
+ com.journeyapps.barcodescanner.camera.DisplayConfiguration
+com/journeyapps/barcodescanner/camera/FitXYStrategy.java
+ com.journeyapps.barcodescanner.camera.FitXYStrategy
+com/journeyapps/barcodescanner/camera/FitCenterStrategy.java
+ com.journeyapps.barcodescanner.camera.FitCenterStrategy
+com/google/zxing/client/android/camera/CameraConfigurationUtilsEmbedded.java
+ com.google.zxing.client.android.camera.CameraConfigurationUtilsEmbedded
+com/google/zxing/client/android/AmbientLightManager.java
+ com.google.zxing.client.android.AmbientLightManager
+ com.google.zxing.client.android.AmbientLightManager$1
+com/google/zxing/client/android/DecodeFormatManager.java
+ com.google.zxing.client.android.DecodeFormatManager
+com/journeyapps/barcodescanner/camera/CenterCropStrategy.java
+ com.journeyapps.barcodescanner.camera.CenterCropStrategy
+com/journeyapps/barcodescanner/BarcodeCallback.java
+ com.journeyapps.barcodescanner.BarcodeCallback
+com/journeyapps/barcodescanner/RotationListener.java
+ com.journeyapps.barcodescanner.RotationListener
+ com.journeyapps.barcodescanner.RotationListener$1
+com/journeyapps/barcodescanner/DecoratedBarcodeView.java
+ com.journeyapps.barcodescanner.DecoratedBarcodeView
+ com.journeyapps.barcodescanner.DecoratedBarcodeView$TorchListener
+ com.journeyapps.barcodescanner.DecoratedBarcodeView$WrappedCallback
+com/journeyapps/barcodescanner/SourceData.java
+ com.journeyapps.barcodescanner.SourceData
+com/journeyapps/barcodescanner/MixedDecoder.java
+ com.journeyapps.barcodescanner.MixedDecoder
+com/journeyapps/barcodescanner/CameraPreview.java
+ com.journeyapps.barcodescanner.CameraPreview
+ com.journeyapps.barcodescanner.CameraPreview$1
+ com.journeyapps.barcodescanner.CameraPreview$2
+ com.journeyapps.barcodescanner.CameraPreview$3
+ com.journeyapps.barcodescanner.CameraPreview$4
+ com.journeyapps.barcodescanner.CameraPreview$4$1
+ com.journeyapps.barcodescanner.CameraPreview$5
+ com.journeyapps.barcodescanner.CameraPreview$StateListener
+com/journeyapps/barcodescanner/camera/CameraInstance.java
+ com.journeyapps.barcodescanner.camera.CameraInstance
+ com.journeyapps.barcodescanner.camera.CameraInstance$1
+ com.journeyapps.barcodescanner.camera.CameraInstance$2
+ com.journeyapps.barcodescanner.camera.CameraInstance$3
+ com.journeyapps.barcodescanner.camera.CameraInstance$3$1
+ com.journeyapps.barcodescanner.camera.CameraInstance$4
+ com.journeyapps.barcodescanner.camera.CameraInstance$5
+ com.journeyapps.barcodescanner.camera.CameraInstance$6
+ com.journeyapps.barcodescanner.camera.CameraInstance$7
+com/journeyapps/barcodescanner/BarcodeView.java
+ com.journeyapps.barcodescanner.BarcodeView
+ com.journeyapps.barcodescanner.BarcodeView$1
+ com.journeyapps.barcodescanner.BarcodeView$DecodeMode
+com/journeyapps/barcodescanner/CompoundBarcodeView.java
+ com.journeyapps.barcodescanner.CompoundBarcodeView
+com/google/zxing/client/android/Intents.java
+ com.google.zxing.client.android.Intents
+ com.google.zxing.client.android.Intents$Scan
+com/journeyapps/barcodescanner/Decoder.java
+ com.journeyapps.barcodescanner.Decoder
+com/journeyapps/barcodescanner/Util.java
+ com.journeyapps.barcodescanner.Util
+com/journeyapps/barcodescanner/Size.java
+ com.journeyapps.barcodescanner.Size
+com/journeyapps/barcodescanner/ViewfinderView.java
+ com.journeyapps.barcodescanner.ViewfinderView
+ com.journeyapps.barcodescanner.ViewfinderView$1
+com/journeyapps/barcodescanner/CaptureManager.java
+ com.journeyapps.barcodescanner.CaptureManager
+ com.journeyapps.barcodescanner.CaptureManager$1
+ com.journeyapps.barcodescanner.CaptureManager$1$1
+ com.journeyapps.barcodescanner.CaptureManager$2
+ com.journeyapps.barcodescanner.CaptureManager$3
+ com.journeyapps.barcodescanner.CaptureManager$4
+ com.journeyapps.barcodescanner.CaptureManager$5
+ com.journeyapps.barcodescanner.CaptureManager$6
+com/journeyapps/barcodescanner/camera/LegacyPreviewScalingStrategy.java
+ com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy
+ com.journeyapps.barcodescanner.camera.LegacyPreviewScalingStrategy$1
+com/journeyapps/barcodescanner/camera/AutoFocusManager.java
+ com.journeyapps.barcodescanner.camera.AutoFocusManager
+ com.journeyapps.barcodescanner.camera.AutoFocusManager$1
+ com.journeyapps.barcodescanner.camera.AutoFocusManager$2
+ com.journeyapps.barcodescanner.camera.AutoFocusManager$2$1
+com/google/zxing/client/android/DecodeHintManager.java
+ com.google.zxing.client.android.DecodeHintManager
+com/journeyapps/barcodescanner/DefaultDecoderFactory.java
+ com.journeyapps.barcodescanner.DefaultDecoderFactory
+com/journeyapps/barcodescanner/camera/CameraManager.java
+ com.journeyapps.barcodescanner.camera.CameraManager
+ com.journeyapps.barcodescanner.camera.CameraManager$CameraPreviewCallback
+com/journeyapps/barcodescanner/camera/CameraSurface.java
+ com.journeyapps.barcodescanner.camera.CameraSurface
+com/journeyapps/barcodescanner/camera/CameraParametersCallback.java
+ com.journeyapps.barcodescanner.camera.CameraParametersCallback
+com/journeyapps/barcodescanner/DecoderFactory.java
+ com.journeyapps.barcodescanner.DecoderFactory
+com/journeyapps/barcodescanner/camera/CameraSettings.java
+ com.journeyapps.barcodescanner.camera.CameraSettings
+ com.journeyapps.barcodescanner.camera.CameraSettings$FocusMode
+com/google/zxing/integration/android/IntentResult.java
+ com.google.zxing.integration.android.IntentResult
+com/journeyapps/barcodescanner/DecoderResultPointCallback.java
+ com.journeyapps.barcodescanner.DecoderResultPointCallback
+com/journeyapps/barcodescanner/CaptureActivity.java
+ com.journeyapps.barcodescanner.CaptureActivity
+com/journeyapps/barcodescanner/BarcodeEncoder.java
+ com.journeyapps.barcodescanner.BarcodeEncoder
+com/journeyapps/barcodescanner/DecoderThread.java
+ com.journeyapps.barcodescanner.DecoderThread
+ com.journeyapps.barcodescanner.DecoderThread$1
+ com.journeyapps.barcodescanner.DecoderThread$2
+com/journeyapps/barcodescanner/RotationCallback.java
+ com.journeyapps.barcodescanner.RotationCallback
+com/google/zxing/client/android/BeepManager.java
+ com.google.zxing.client.android.BeepManager
+ com.google.zxing.client.android.BeepManager$1
+ com.google.zxing.client.android.BeepManager$2
+com/journeyapps/barcodescanner/camera/PreviewScalingStrategy.java
+ com.journeyapps.barcodescanner.camera.PreviewScalingStrategy
+ com.journeyapps.barcodescanner.camera.PreviewScalingStrategy$1
+com/journeyapps/barcodescanner/camera/PreviewCallback.java
+ com.journeyapps.barcodescanner.camera.PreviewCallback
+com/google/zxing/client/android/InactivityTimer.java
+ com.google.zxing.client.android.InactivityTimer
+ com.google.zxing.client.android.InactivityTimer$1
+ com.google.zxing.client.android.InactivityTimer$PowerStatusReceiver
+ com.google.zxing.client.android.InactivityTimer$PowerStatusReceiver$1
